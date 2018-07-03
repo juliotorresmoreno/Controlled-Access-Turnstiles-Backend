@@ -1,0 +1,11 @@
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\bin\Debug\netcoreapp2.0\Tourniquet.deps.json
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\bin\Debug\netcoreapp2.0\Tourniquet.runtimeconfig.json
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\bin\Debug\netcoreapp2.0\Tourniquet.runtimeconfig.dev.json
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\bin\Debug\netcoreapp2.0\Tourniquet.dll
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.csprojAssemblyReference.cache
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.csproj.CoreCompileInputs.cache
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.AssemblyInfoInputs.cache
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.AssemblyInfo.cs
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\bin\Debug\netcoreapp2.0\Tourniquet.pdb
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.dll
+C:\Users\carlosponton\source\repos\Tourniquet\Tourniquet\obj\Debug\netcoreapp2.0\Tourniquet.pdb
